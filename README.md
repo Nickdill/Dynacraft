@@ -5,4 +5,4 @@ Dynacraft is a Minecraft Server I began my junior yeah of High School. I have cr
 
 Cheers!
 
-Nick Dill
+Nick
